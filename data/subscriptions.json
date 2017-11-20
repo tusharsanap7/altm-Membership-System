@@ -1,0 +1,16 @@
+[{
+	"id":"1",
+	"name":"US Discovery",
+	"area":"US",
+	"price":"500"
+},{
+	"id":"2",
+	"name":"World Explorer",
+	"area":"Global",
+	"price":"1100"
+},{
+	"id":"3",
+	"name":"Newspaper.com",
+	"area":"Global",
+	"price":"1000"
+}]

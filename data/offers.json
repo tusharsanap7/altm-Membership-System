@@ -1,0 +1,19 @@
+[{
+	"id":"11",
+	"name":"New Year Offer",
+	"programsIncluded":["1"],
+	"type":"Monthly",
+	"benefit": "10% Off"
+},{
+	"id":"12",
+	"name":"Pongal Offer",
+	"programsIncluded":["2", "3"],
+	"type":"Yearly",
+	"benefit": "15% Off"
+},{
+	"id":"13",
+	"name":"Diwali Offer",
+	"programsIncluded":["3"],
+	"type":"Yearly",
+	"benefit": "10% Off"
+}]

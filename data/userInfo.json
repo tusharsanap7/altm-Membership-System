@@ -1,0 +1,23 @@
+{
+	"abc":{
+		"password": "123",
+		"role":"member",
+		"firstName":"ABC (Member)",
+		"lastName":"a-b-c",
+		"subscriptions":["1","2"]
+	},
+	"xyz":{
+		"password": "123",
+		"role":"sales",
+		"firstName":"XYZ (Sales Person)",
+		"lastName":"z-y-z",
+		"subscriptions":[]	
+	},
+	"pqr":{
+		"password": "123",
+		"role":"service",
+		"firstName":"PQR (Service Person)",
+		"lastName":"p-q-r",
+		"subscriptions":[]	
+	}
+}
