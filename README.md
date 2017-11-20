@@ -23,21 +23,21 @@ ABOUT DIFFERENT USERS:
 
 System has 3 types of users:
 
-1: Member
+1: Member:
 -> Get List of Subscription Programs
 -> Register for New Subscription Programs
 e.g dummy user: 
 	username-> abc
 	password-> 123
 
-2: Sales Person
+2: Sales Person:
 -> Create new subscription program
 -> Create Subscription Offers
 e.g dummy user:
 	username-> xyz
 	password-> 123
 
-3: Service person
+3: Service person:
 -> Get Membership Report
 e.g dummy user:
 	username-> pqr
