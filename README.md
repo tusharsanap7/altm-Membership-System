@@ -1,7 +1,9 @@
 Membership System
+
 This project is started with "Core UI" template.
 
 Dummy data is present in "data" directory which has following 3 files:
+
 1: userInfo.json 
 	This file contains registed users with their usernames, passowrd, role, subscribed programs, etc.
 
@@ -12,12 +14,15 @@ Dummy data is present in "data" directory which has following 3 files:
 	This file contains offer with their name, valid subscription programs, benefit, etc.
 
 NOTE:
+
 -> As all data is read from dummy files, the changes made by any user will only modify the memory objects(subscriptions & offer releated objects) and will be persistant till tab is not refreshed.
 
 -> Validations are not implemented in most of the forms.
 
 ABOUT DIFFERENT USERS:
-Syatem has 3 types of users:
+
+System has 3 types of users:
+
 1: Member
 	-> Get List of Subscription Programs
 	-> Register for New Subscription Programs
